@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 /**
  * Navi-bar code
  */
@@ -32,4 +36,11 @@ li a {
 .header {
     display: flex;
     background-color: #1F2937;
+    flex-direction: column;
+    color: white;
+}
+
+#header-image {
+    max-width: 500px;
+    height: auto;
 }
