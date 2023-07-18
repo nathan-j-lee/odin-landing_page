@@ -1,0 +1,35 @@
+/**
+ * Navi-bar code
+ */
+.navi-bar {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: space-between;
+}
+
+.logo {
+    color: white;
+    margin: 25px 100px;
+}
+
+ul {
+    list-style-type: none;
+    align-items: center;
+    margin: 25px 100px;
+}
+.links {
+    display: flex;
+}
+li a {
+    text-decoration: none;
+    color: rgb(173, 173, 173);
+    margin: 8px;
+}
+
+/**
+ * Header code
+ */
+.header {
+    display: flex;
+    background-color: #1F2937;
+}
