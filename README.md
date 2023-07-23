@@ -3,3 +3,6 @@ My take on TOP Landing Page project
 
 Image credit to:
 Daniel Reche
+Bessi
+JanDix
+Chayanan

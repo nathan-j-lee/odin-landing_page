@@ -36,11 +36,18 @@ li a {
 .header {
     display: flex;
     background-color: #1F2937;
-    flex-direction: column;
     color: white;
 }
 
 #header-image {
     max-width: 500px;
     height: auto;
+}
+
+/**
+ * Image gallery code
+ */
+#image-gallery img {
+    width: 150px;
+    height: 100px;
 }
