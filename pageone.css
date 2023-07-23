@@ -39,9 +39,16 @@ li a {
     color: white;
 }
 
+#header-left {
+    margin: 50px 100px;
+    display: flex;
+    flex-direction: column;
+}
+
 #header-image {
-    max-width: 500px;
+    max-width: 400px;
     height: auto;
+    margin: 50px 150px 100px 0;
 }
 
 /**
@@ -51,3 +58,12 @@ li a {
     width: 150px;
     height: 100px;
 }
+
+/**
+ * Quote code
+ */
+
+
+/**
+ * Footer code
+ */
