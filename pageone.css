@@ -46,7 +46,7 @@ li a {
 }
 
 #header-image {
-    max-width: 400px;
+    max-width: 300px;
     height: auto;
     margin: 50px 150px 50px 0;
 }
@@ -120,3 +120,28 @@ li a {
 /**
  * Footer code
  */
+.footer {
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 100px;
+}
+#call-container {
+    background-color: rgb(0, 123, 255);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+#call-to-action-subtext {
+    font-size: 15px;
+    font-weight: 100;
+}
+
+#call-container .signup {
+    border: 2px solid white;
+    width: 100px;
+    height: 30px;
+}
