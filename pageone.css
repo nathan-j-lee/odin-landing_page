@@ -48,7 +48,7 @@ li a {
 #header-image {
     max-width: 400px;
     height: auto;
-    margin: 50px 150px 100px 0;
+    margin: 50px 150px 50px 0;
 }
 
 .signup {
@@ -85,13 +85,37 @@ li a {
 #image-gallery {
     display: flex;
     justify-content: space-evenly;
-    margin: 0 150px;
+    margin: 30px 200px;
+    margin-bottom: 60px;
 }
 
 /**
  * Quote code
  */
 
+ .quote-section {
+    background-color: rgb(193, 193, 193);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #quote {
+    height: auto;
+    margin: 80px 200px;
+ }
+
+ #quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+ }
+
+ #quote-origin {
+    text-align: right;
+    margin-right: 30px;
+    font-size: medium;
+ }
 
 /**
  * Footer code
